@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ДЕРЕВО
+</name>
+</assembly>
+<members>
+<member name="T:ДЕРЕВО.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ДЕРЕВО.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ДЕРЕВО.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ДЕРЕВО.Exc_mod.UseRowsdByColumn(System.String,System.String,System.String)">
+ <summary>
+ Get last used row for a single column
+ </summary>
+ <param name="FileName"></param>
+ <param name="SheetName"></param>
+ <param name="Column"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:ДЕРЕВО.Excel_API.UsedRows(System.String,System.String)">
+ <summary>
+ Get last used row in sheetname
+ </summary>
+ <param name="FileName">path and filename to excel file to work with</param>
+ <param name="SheetName">Worksheet name to get information</param>
+ <returns>-1 if issues else lasted used row</returns>
+ <remarks></remarks>
+</member>
+<member name="M:ДЕРЕВО.Excel_API.UseRowsdByColumn(System.String,System.String,System.String)">
+ <summary>
+ Get last used row for a single column
+ </summary>
+ <param name="FileName"></param>
+ <param name="SheetName"></param>
+ <param name="Column"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,30 @@
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.exe.config
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.exe
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.pdb
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.xml
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbprojResolveAssemblyReference.cache
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbproj.ResolveComReference.cache
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.Form1.resources
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.Resources.resources
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbproj.GenerateResource.Cache
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.exe
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.xml
+c:\users\aidarhanov.n.veza-spb\documents\visual studio 2017\Projects\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.pdb
+D:\Cloud\VisualStudio\ДЕРЕВО\bin\Debug\ДЕРЕВО.exe.config
+D:\Cloud\VisualStudio\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbproj.ResolveComReference.cache
+D:\Cloud\VisualStudio\ДЕРЕВО\obj\Debug\ДЕРЕВО.exe
+D:\Cloud\VisualStudio\ДЕРЕВО\obj\Debug\ДЕРЕВО.xml
+D:\Cloud\VisualStudio\ДЕРЕВО\obj\Debug\ДЕРЕВО.pdb
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.exe.config
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.exe
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.pdb
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\bin\Debug\ДЕРЕВО.xml
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbproj.ResolveComReference.cache
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.Form1.resources
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.Resources.resources
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.exe
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.xml
+C:\Users\User\Downloads\ДЕРЕВО\ДЕРЕВО\obj\Debug\ДЕРЕВО.pdb
